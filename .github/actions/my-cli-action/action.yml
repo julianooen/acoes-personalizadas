@@ -4,7 +4,7 @@ author: "Your Name"
 
 inputs:
   version:
-    description: "The CLI version to install"
+    description: "The CLI version to install in"
     required: false
     default: "latest"
 
